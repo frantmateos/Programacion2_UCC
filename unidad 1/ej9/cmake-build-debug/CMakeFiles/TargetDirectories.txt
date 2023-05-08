@@ -1,0 +1,3 @@
+C:/Users/frant/OneDrive/Documentos/UCC/Segundo ano/Programacion 2/ej9/cmake-build-debug/CMakeFiles/ej9.dir
+C:/Users/frant/OneDrive/Documentos/UCC/Segundo ano/Programacion 2/ej9/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/frant/OneDrive/Documentos/UCC/Segundo ano/Programacion 2/ej9/cmake-build-debug/CMakeFiles/rebuild_cache.dir

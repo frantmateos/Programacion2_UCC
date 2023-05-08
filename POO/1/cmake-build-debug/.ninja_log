@@ -1,0 +1,13 @@
+# ninja log v5
+1	270	7019007169460994	CMakeFiles/1.dir/precio.cpp.obj	c429b02cf9afd035
+7	499	7019007171745821	CMakeFiles/1.dir/main.cpp.obj	ca400c89705a7d52
+4	568	7019008240556103	CMakeFiles/1.dir/main.cpp.obj	ca400c89705a7d52
+3	505	7019009184955663	CMakeFiles/1.dir/main.cpp.obj	ca400c89705a7d52
+9	235	7019010086816895	CMakeFiles/1.dir/precio.cpp.obj	c429b02cf9afd035
+4	501	7019010089499711	CMakeFiles/1.dir/main.cpp.obj	ca400c89705a7d52
+5	564	7019013186185625	CMakeFiles/1.dir/main.cpp.obj	ca400c89705a7d52
+11	519	7019014685861992	CMakeFiles/1.dir/precio.cpp.obj	c429b02cf9afd035
+5	520	7019014685885128	CMakeFiles/1.dir/main.cpp.obj	ca400c89705a7d52
+13	837	7020900334014695	CMakeFiles/1.dir/precio.cpp.obj	c429b02cf9afd035
+4	839	7020900334014695	CMakeFiles/1.dir/main.cpp.obj	ca400c89705a7d52
+839	1004	7020900335628155	1.exe	52f797333e7f10d7

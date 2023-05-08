@@ -1,0 +1,12 @@
+# ninja log v5
+2	183	7052862459824029	build.ninja	719380bdcc90b42b
+45	1054	7049022628603228	CMakeFiles/proyectoescuela.dir/docente.cpp.obj	c1305e25c6bdf4a2
+23	1060	7049022628653107	CMakeFiles/proyectoescuela.dir/datos.cpp.obj	774815acfa411891
+24	1250	7049221127312445	CMakeFiles/proyectoescuela.dir/alumnos.cpp.obj	973ccb189a25cf56
+6	1249	7049221127301686	CMakeFiles/proyectoescuela.dir/main.cpp.obj	555a9d3dcb63d2ed
+15	1148	7049221126273454	CMakeFiles/proyectoescuela.dir/todoslosalumnos.cpp.obj	d529d8b14fcc5d22
+84	1074	7049022628820698	CMakeFiles/proyectoescuela.dir/todoslosdocentes.cpp.obj	36d9fdddb477818f
+675	904	7049230911961378	proyectoescuela.exe	1084268d0dabd659
+7	673	7049230909797151	CMakeFiles/proyectoescuela.dir/materia.cpp.obj	2b40e51c86845693
+45	1279	7049221127456695	CMakeFiles/proyectoescuela.dir/todasmaterias.cpp.obj	7d45231d089f87a1
+1	180	7052862459824029	build.ninja	719380bdcc90b42b

@@ -1,0 +1,11 @@
+# ninja log v5
+1	485	7043140966673602	CMakeFiles/vehiculo_.dir/main.cpp.obj	a522bb57c388f972
+8	415	7043141356702587	CMakeFiles/vehiculo_.dir/vehiculo.cpp.obj	c307b5c0d743cfea
+13	464	7043141534091867	CMakeFiles/vehiculo_.dir/vehiculo.cpp.obj	c307b5c0d743cfea
+4	471	7043141534171663	CMakeFiles/vehiculo_.dir/main.cpp.obj	a522bb57c388f972
+471	616	7043141535379036	vehiculo_.exe	542a72a4098a6eaf
+3	408	7043154803001497	CMakeFiles/vehiculo_.dir/main.cpp.obj	a522bb57c388f972
+10	410	7043154803011475	CMakeFiles/vehiculo_.dir/vehiculo.cpp.obj	c307b5c0d743cfea
+410	546	7043154804322042	vehiculo_.exe	542a72a4098a6eaf
+5	418	7043155018724181	CMakeFiles/vehiculo_.dir/main.cpp.obj	a522bb57c388f972
+419	551	7043155020006038	vehiculo_.exe	542a72a4098a6eaf

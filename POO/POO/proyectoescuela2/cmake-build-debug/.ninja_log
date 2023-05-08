@@ -1,0 +1,23 @@
+# ninja log v5
+1	182	7049180682764070	build.ninja	5ac99cc4ec00bf02
+45	1054	7049022628603228	CMakeFiles/proyectoescuela.dir/docente.cpp.obj	c1305e25c6bdf4a2
+23	1060	7049022628653107	CMakeFiles/proyectoescuela.dir/datos.cpp.obj	774815acfa411891
+68	1097	7049022629055490	CMakeFiles/proyectoescuela.dir/alumnos.cpp.obj	973ccb189a25cf56
+4	504	7049170126204433	CMakeFiles/proyectoescuela.dir/main.cpp.obj	555a9d3dcb63d2ed
+15	649	7049064796855412	CMakeFiles/proyectoescuela.dir/todoslosalumnos.cpp.obj	d529d8b14fcc5d22
+84	1074	7049022628820698	CMakeFiles/proyectoescuela.dir/todoslosdocentes.cpp.obj	36d9fdddb477818f
+504	678	7049170127909865	proyectoescuela.exe	1084268d0dabd659
+18	481	7049170125975032	CMakeFiles/proyectoescuela.dir/materia.cpp.obj	2b40e51c86845693
+25	476	7049170125915224	CMakeFiles/proyectoescuela.dir/todasmaterias.cpp.obj	7d45231d089f87a1
+24	703	7049188121226178	CMakeFiles/proyectoescuela.dir/docente.cpp.obj	518e2d020eed3edc
+4	706	7049188121256094	CMakeFiles/proyectoescuela.dir/datos.cpp.obj	20c424a614fb0ae3
+18	708	7049188121226178	CMakeFiles/proyectoescuela.dir/todoslosdocentes.cpp.obj	5f3894ee997ef2fc
+25	881	7049215113768723	CMakeFiles/proyectoescuela.dir/alumnos.cpp.obj	dac047e1751f46e7
+84	885	7049215113789268	CMakeFiles/proyectoescuela.dir/todasmaterias.cpp.obj	1db4a79d61afba37
+36	888	7049215113851711	CMakeFiles/proyectoescuela.dir/todoslosdocentes.cpp.obj	5f3894ee997ef2fc
+6	889	7049215113862062	CMakeFiles/proyectoescuela.dir/datos.cpp.obj	20c424a614fb0ae3
+61	890	7049215113872180	CMakeFiles/proyectoescuela.dir/todoslosalumnos.cpp.obj	218938477a2bc3e8
+47	902	7049215113998256	CMakeFiles/proyectoescuela.dir/docente.cpp.obj	518e2d020eed3edc
+15	913	7049215114124908	CMakeFiles/proyectoescuela.dir/main.cpp.obj	fdf4352b33d55e29
+71	938	7049215114378017	CMakeFiles/proyectoescuela.dir/materia.cpp.obj	6cf422bce521985a
+939	1225	7049215117126832	proyectoescuela.exe	1084268d0dabd659

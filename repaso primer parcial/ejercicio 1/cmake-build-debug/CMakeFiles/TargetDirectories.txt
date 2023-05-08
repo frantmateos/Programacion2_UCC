@@ -1,0 +1,3 @@
+C:/Users/frant/OneDrive/Documentos/UCC/Segundo Año/Programacion 2/repaso primer parcial/ejercicio 1/cmake-build-debug/CMakeFiles/ejercicio_1.dir
+C:/Users/frant/OneDrive/Documentos/UCC/Segundo Año/Programacion 2/repaso primer parcial/ejercicio 1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/frant/OneDrive/Documentos/UCC/Segundo Año/Programacion 2/repaso primer parcial/ejercicio 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

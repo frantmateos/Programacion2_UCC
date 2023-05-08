@@ -1,0 +1,9 @@
+# ninja log v5
+5	407	7044442841758933	CMakeFiles/proyectoalumnos.dir/datos.cpp.obj	c14f7162852f7492
+165	806	7044432224326975	CMakeFiles/proyectoalumnos.dir/materia.cpp.obj	320b700e595dff0e
+8	423	7044443458907562	CMakeFiles/proyectoalumnos.dir/main.cpp.obj	599d7e988ed2376f
+451	595	7044432803624623	proyectoalumnos.exe	49b5fc1cecb53bc2
+87	202	7046971617509924	CMakeFiles/proyectoalumnos.dir/docente.cpp.obj	1a96a18cb48df0b2
+94	208	7046971617779317	CMakeFiles/proyectoalumnos.dir/alumnos.cpp.obj	cca7b09fd996e186
+5	723	7046971622932610	CMakeFiles/proyectoalumnos.dir/main.cpp.obj	599d7e988ed2376f
+80	757	7046971623265146	CMakeFiles/proyectoalumnos.dir/datos.cpp.obj	c14f7162852f7492

@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "proyectoescuela",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "proyectoescuela::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-proyectoescuela-Debug-996ac9936c2b3657f161.json",
+					"name" : "proyectoescuela",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/frant/OneDrive/Documentos/UCC/Segundo A\u00f1o/Programacion 2/POO/POO/proyectoescuela/cmake-build-debug",
+		"source" : "C:/Users/frant/OneDrive/Documentos/UCC/Segundo A\u00f1o/Programacion 2/POO/POO/proyectoescuela"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
