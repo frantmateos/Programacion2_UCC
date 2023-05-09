@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 using namespace std;
-
+//holaaa
 #include "actores.h"
 #include "datos.h"
 #include "pelicula.h"
@@ -39,7 +39,7 @@ int main(){
                 }
             }
 
-        }else if(opcion ==2){ 
+        }else if(opcion ==2){
             actores actor_buscado;
             string busacado;
             string nuevodato;
